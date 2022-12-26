@@ -42,3 +42,11 @@ pet.water()
 pet.pet()
 pet.give_medicine()
 pet.save_state()
+pet.run()
+
+def run(self):
+    while True:
+      # update the pet's state and perform actions
+      pass
+$ nohup python 
+virtual_pet.py &
